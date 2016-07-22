@@ -1,3 +1,7 @@
+## Dependences:
+  * docker
+  * docker-compose
+
 ## Start
 
  * `./start-repl.sh`
